@@ -37,7 +37,7 @@ The dashboard was built in **Excel** using Pivot Tables, Charts, Slicers, and KP
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard%20excel.png)
+
 
 ---
 
